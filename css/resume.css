@@ -79,7 +79,7 @@ aside{
     height: 100%;
 }
 #colorThree{
-    background-color: rgb(45, 101, 255);
+    background-color: rgb(11, 23, 56);
     float: left;
     width: 25%;
     height: 100%;
@@ -89,4 +89,13 @@ aside{
     float: left;
     width: 25%;
     height: 100%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(38, 132, 255);
 }
